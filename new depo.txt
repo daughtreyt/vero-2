@@ -1,0 +1,6 @@
+new depo
+clone
+name file
+git add
+git commit
+git push
